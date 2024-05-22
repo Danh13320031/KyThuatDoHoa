@@ -124,11 +124,11 @@ namespace vd7 {
 
 
 				glBegin(GL_LINE_STRIP);
-				glVertex3f(x-0.5, y-0.5, 0);
-				glVertex3f(x-0.5, y+0.5, 0);
-				glVertex3f(x+0.5, y+0.5, 0);
-				glVertex3f(x+0.5, y-0.5, 0);
-				glVertex3f(x-0.5, y-0.5, 0);
+					glVertex3f(x-0.5, y-0.5, 0);
+					glVertex3f(x-0.5, y+0.5, 0);
+					glVertex3f(x+0.5, y+0.5, 0);
+					glVertex3f(x+0.5, y-0.5, 0);
+					glVertex3f(x-0.5, y-0.5, 0);
 				glEnd();
 			}
 		}

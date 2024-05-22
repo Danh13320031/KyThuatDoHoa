@@ -12,4 +12,5 @@ int vidu8(int argc, char** argv);
 int vidu9(int argc, char** argv);
 int vidu10(int argc, char** argv);
 int vidu11(int argc, char** argv);
+int foor(int argc, char** argv);
 #endif // !MAIN_H

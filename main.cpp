@@ -1,7 +1,7 @@
 ﻿#include "main.h"
 
 int main(int argc, char** argv) {
-	return vidu10(argc, argv);
+	return foor(argc, argv);
 
 	return 0;
 }
